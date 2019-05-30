@@ -1,0 +1,1 @@
+print('Hello, my master, happy a new day!')
